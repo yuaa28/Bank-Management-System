@@ -26,24 +26,9 @@ String operations & date handling
  ┣ 📜 BankManagementSystem[1].cpp              # Source code    
  ┣ 📜 README.md                                # Project documentation  
  ┗ 📜 LICENSE                                  # License file  
-
-▶️ Getting Started
-Prerequisites
-A C++ compiler (g++, clang++, or MSVC)
-Basic knowledge of running console applications
-Run Locally
-# Clone the repository
-git clone https://github.com/your-username/Bank-Management-System.git
-# Navigate to project folder
-cd Bank-Management-System
-# Compile
-g++ main.cpp -o bank
-# Run
-./bank
 📖 Use Cases
 Learning C++ OOP & File Handling
 Simulating real-world banking system logic
-
 Academic projects or practice assignments
 
 📜 License
